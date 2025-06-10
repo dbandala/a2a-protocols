@@ -1,0 +1,27 @@
+# virtual environment
+venv/
+.venv
+.env
+.env/
+# Python cache
+__pycache__/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Pytest cache
+.cache/
+# Coverage reports
+.coverage
+.coverage.*
+# PyCharm project files
+.idea/
+# VS Code workspace settings
+.vscode/
+# Build directories
+build/
+dist/
+# Distribution files
+*.egg-info/
+# Logs
+*.log
+# Temporary files
+*.tmp
